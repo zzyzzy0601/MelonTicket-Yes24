@@ -73,7 +73,7 @@ try:
                         time.sleep(0.5)
                         pyautogui.moveTo(276, 584)
                         pyautogui.click()
-                        pyautogui.write('19133232735')
+                        pyautogui.write('11111111111')
                         pyautogui.moveTo(1350, 977)
                         pyautogui.click()
 
@@ -100,3 +100,4 @@ try:
 
 except KeyboardInterrupt:
     print("程序被用户手动停止。")
+
